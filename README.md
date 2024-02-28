@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @divanshArora3
 - 👀 I’m interested in robotics,IOT,software development,web development(frontend),c++,python
 - 🌱 I’m currently learning data structures and algorithms in c++
-- 💞️ I’m looking to collaborate on web development(backend)for my c++ projects
+- 💞️ I’m looking to collaborate on web development(backend)for my c++ projects as well as for robotics{arduino uno}
+- I'm also looking for the some opensorce projects for ROS
 - 📫 How to reach me mail me on divansharora151278@gmail.com
 
 <!---

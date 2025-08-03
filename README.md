@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development,web development(backend),c++,python,Iot,Robotics
 - 🌱 I’m interseted in solving data structures and algorithms questions in c++
 - 💞️ I’m looking to collaborate on web development(frontend)for my projects 
-- I'm also looking for the some opensource projects for Streamlite
+- I'm also looking for the some open-source projects for Streamlite
 - 📫 How to reach me: mail me on divansharora03@gmail.com
 
 <!---

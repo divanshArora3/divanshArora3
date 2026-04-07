@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divansh Arora</h1>
 <h3 align="center">A passionate software developr from India,persing btech from NITJ in Instrumentation & Control.Inclined towards Data engineering and Backend Development</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: divansharora03@gmail.com</h3>
 <p align="left">
 </p>
 

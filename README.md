@@ -1,6 +1,5 @@
 # 🚀 Engineering Data & Refining Systems
 
-I’m a developer and researcher sitting at the intersection of **Instrumentation & Control Engineering** and **Data Engineering**. Currently, I’m focused on building robust data pipelines at **Sigmoid**, while maintaining a deep love for full-stack development and hardware-software integration.
 
 ### 🛠️ The Toolbox
 

@@ -33,6 +33,6 @@ I’m a developer and researcher sitting at the intersection of **Instrumentatio
 
 * 🔭 **Currently:** Diving deeper into Cloud Architecture and Big Data.
 * 💬 **Ask me about:** Why I transitioned from MERN to Data Eng, or how IMU sensors work.
-* 📫 **Email:** divansharora03@gmail.com
+* 📫 **Email:** divansharora03@gmail.com 
 
 ---
